@@ -145,7 +145,7 @@ header{
 
 .health{
     position: absolute;
-    min-width: 620px;
+    min-width: 640px;
     background: #fff;
     z-index: 45;
     display: flex;
@@ -183,7 +183,7 @@ header{
 
 .office{
     position: absolute;
-    min-width: 620px;
+    min-width: 640px;
     background: #fff;
     z-index: 45;
     display: flex;
@@ -221,7 +221,7 @@ header{
 
 .phones{
     position: absolute;
-    min-width: 620px;
+    min-width: 640px;
     background: #fff;
     z-index: 45;
     display: flex;
@@ -259,7 +259,7 @@ header{
 
 .computing{
     position: absolute;
-    min-width: 620px;
+    min-width: 640px;
     background: #fff;
     z-index: 45;
     display: flex;
@@ -298,7 +298,7 @@ header{
 
 .electronic{
     position: absolute;
-    min-width: 620px;
+    min-width: 640px;
     background: #fff;
     z-index: 45;
     display: flex;
@@ -336,7 +336,7 @@ header{
 
 .fashion{
     position: absolute;
-    min-width: 620px;
+    min-width: 640px;
     background: #fff;
     z-index: 45;
     display: flex;
@@ -376,7 +376,7 @@ header{
 
 .baby{
     position: absolute;
-    min-width: 620px;
+    min-width: 640px;
     background: #fff;
     z-index: 45;
     display: flex;
@@ -414,7 +414,7 @@ header{
 
 .gaming{
     position: absolute;
-    min-width: 620px;
+    min-width: 640px;
     background: #fff;
     z-index: 45;
     display: flex;
@@ -453,7 +453,7 @@ header{
 
 .sports{
     position: absolute;
-    min-width: 410px;
+    min-width: 440px;
     background: #fff;
     z-index: 45;
     display: flex;
@@ -486,7 +486,7 @@ header{
 
 .auto{
     position: absolute;
-    min-width: 620px;
+    min-width: 640px;
     background: #fff;
     z-index: 45;
     display: flex;
@@ -877,8 +877,12 @@ header{
     display: block;
     color: #808080;
     max-width: 100%;
-    line-height: 20px;
+    line-height: 25px;
 
+}
+
+.conceal{
+    display: none;
 }
 
 .standout:visited{
