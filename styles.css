@@ -863,11 +863,10 @@ header{
     position: absolute;
     text-decoration: none;
     z-index: 80;
-    /* max-width: 104px; */
+    border: 1px solid #eee;
     min-width: 73px;
     font-weight: 500;
     width: 58px;
-    display: none;
     background-color: #fff;
 }
 
@@ -916,15 +915,7 @@ header{
     cursor: pointer;
     background: #fff;
 }
-.drop-down-btn2{
-    border: none;
-    border: 1px solid #eee;
-    width: 58px;
-    height: 33px;
-    outline: none;
-    cursor: pointer;
-    background: #fff;
-}
+
 
 .drop:hover{
     border: 1px solid #eee;
@@ -935,10 +926,10 @@ header{
     background: #eeeeee;
 }
 
-.drop:hover .numbers-content {
+/* .drop:hover .numbers-content {
     display: block;
     border: 1px solid #eee;
-} 
+}  */
 
 .amount{
     display: flex;
